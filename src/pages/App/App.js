@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import { Container, Row, Col, Button } from 'react-bootstrap'
+import { Container, Button } from 'react-bootstrap'
 
 function App() {
   return (
@@ -23,7 +23,7 @@ function App() {
               <li><b>No </b>Email support</li>
               <li><b>No Help center access</b></li>
             </ul>
-            <Button variant="secondary" block className="button" size="lg">Get Started</Button>
+            <Button variant="secondary" block className="button bronze" size="lg">Get Started</Button>
           </div>
 
           <div className="custom-card--big col-md-4 col-xs-12">
