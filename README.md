@@ -26,3 +26,13 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 
+## Docker
+
+This project has been configured to run using docker.
+
+### Running project in docker container
+
+* Build project using: `docker build -t pricing-plan .`
+* Run the container: `docker run -it -p 8000:80 pricing-plan`
+* Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+
