@@ -36,3 +36,6 @@ This project has been configured to run using docker.
 * Run the container: `docker run -it -p 8000:80 pricing-plan`
 * Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
+## Deployed App
+
+This project has been deployed to github pages and can be found [here](https://dancarl857.github.io/pricing-plan/)
