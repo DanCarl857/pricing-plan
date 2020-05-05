@@ -33,7 +33,7 @@
 }
 
 .custom-card--big:hover {
-  color: #4885ed;
+  color: #2c3e50;
   background-color: #fff;
   cursor: pointer;
 }
@@ -43,15 +43,20 @@
 }
 
 .custom-card__header-bronze {
-  color: #E9D758;
+  color: #f39c12;
+}
+
+.bronze {
+  background-color: #f39c12 !important;
+  border: 1px solid #f39c12 !important;
 }
 
 .custom-card__header-gold {
-  color: #d3abb0;
+  color: #ecf0f1;
 }
 
 .custom-card__header-silver {
-  color: #4e5283;
+  color: #34495e;
 }
 
 .header__text {
